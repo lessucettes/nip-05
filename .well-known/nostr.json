@@ -3,6 +3,6 @@
     "_": "cac0e43235806da094f0787a5b04e29ad04cb1a3c7ea5cf61edc1c338734082b"
   },
   "relays": {
-    "cac0e43235806da094f0787a5b04e29ad04cb1a3c7ea5cf61edc1c338734082b": [ "wss://nostr.wine", "wss://purplepag.es" ]
+    "cac0e43235806da094f0787a5b04e29ad04cb1a3c7ea5cf61edc1c338734082b": [ "wss://sakhalin.nostr1.com", "wss://purplepag.es" ]
   }
 }
