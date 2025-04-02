@@ -3,6 +3,6 @@
     "_": "cac0e43235806da094f0787a5b04e29ad04cb1a3c7ea5cf61edc1c338734082b"
   },
   "relays": {
-    "cac0e43235806da094f0787a5b04e29ad04cb1a3c7ea5cf61edc1c338734082b": [ "wss://adre.su", "wss://nostr.wine" ]
+    "cac0e43235806da094f0787a5b04e29ad04cb1a3c7ea5cf61edc1c338734082b": [ "wss://adre.su", "wss://nostr.wine", "wss://nostr.mom" ]
   }
 }
